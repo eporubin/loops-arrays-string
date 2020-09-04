@@ -233,7 +233,7 @@ We would get something like the following (if we add some CSS)
 |Italy|60000000|
 
 ### Databases and associative arrays
-The above example of multi-dimensional arrays is an important one to understand. When we retrive data from a database using PHP, we will receive this data in the form of a multi-dimensional array, with data from each row of the database table stored in a separate associative array.
+The above example of multi-dimensional arrays is an important one to understand. When we retrieve data from a database using PHP, we will receive this data in the form of a multi-dimensional array, with data from each row of the database table stored in a separate associative array.
 
 ### Array functions
 There are lots of functions that can help us work with arrays e.g. are some examples:
